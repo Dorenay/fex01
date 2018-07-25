@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="40px" height="80px" viewBox="0 0 40 80" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 46.2 (44496) - http://www.bohemiancoding.com/sketch -->
+    <title>ic_arrow_banner</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" opacity="0.25">
+        <g id="01-01-01-main-option1" transform="translate(-1276.000000, -888.000000)" fill-rule="nonzero" fill="#FFFFFF">
+            <g id="Group-2" transform="translate(104.000000, 688.000000)">
+                <g id="icons8-expand_arrow-copy" transform="translate(1192.000000, 240.000000) scale(-1, 1) rotate(90.000000) translate(-1192.000000, -240.000000) translate(1152.000000, 220.000000)">
+                    <g id="ic_arrow_banner">
+                        <polygon id="Shape" points="12.8181818 4 9 8.32676056 38.0909091 34.2873239 40 36 41.9090909 34.2873239 71 8.32676056 67.1818182 4 40 28.2478873"></polygon>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
